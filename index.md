@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Kyle Parran: Welcome to my blog
 ---
 
